@@ -54,7 +54,7 @@ function App() {
               </button>
             </p>
           </div>
-          <table width="600px" border="1">
+          <table width="600px">
             <caption>
               <h3>Number of dogs fetched: {data?.length}</h3>
             </caption>
